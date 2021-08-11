@@ -11,4 +11,4 @@ void cleanup_module(void){
 	pr_info("hello end.\n");
 }
 
-
+MODULE_LICENSE("GPL");
